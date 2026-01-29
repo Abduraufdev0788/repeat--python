@@ -62,3 +62,9 @@ Uchta son berilgan.
 Funksiya yozing:
 - son qabul qilsin  
 - uning **faktorialini** qaytarsin  
+
+
+### Masala 5
+eng katta va eng kichik elementni toping
+
+ularning ayirmasini chiqaring
