@@ -50,3 +50,9 @@ Uchta son berilgan.
 - agar hammasi teng bo‘lsa `All equal` chiqaring  
 
 📥 Input:
+
+
+
+### Masala 3
+`n` soni berilgan.  
+1 dan `n` gacha bo‘lgan **juft sonlar yig‘indisini** toping.
