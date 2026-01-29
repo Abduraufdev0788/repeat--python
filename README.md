@@ -56,3 +56,9 @@ Uchta son berilgan.
 ### Masala 3
 `n` soni berilgan.  
 1 dan `n` gacha bo‘lgan **juft sonlar yig‘indisini** toping.
+
+
+### Masala 4
+Funksiya yozing:
+- son qabul qilsin  
+- uning **faktorialini** qaytarsin  
