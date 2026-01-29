@@ -74,3 +74,9 @@ ularning ayirmasini chiqaring
 Matn berilgan.
 
 har bir so‘z necha marta takrorlanganini hisoblang
+
+### Masala 7
+
+String berilgan.
+
+u palindrom ekanini tekshiring
