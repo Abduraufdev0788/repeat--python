@@ -37,3 +37,16 @@ Son berilgan.
 - musbat, manfiy yoki 0 ekanini chiqaring  
 
 📥 Input:
+
+
+
+---
+
+## 2️⃣ Conditions
+
+### Masala 2
+Uchta son berilgan.  
+- eng kattasini toping  
+- agar hammasi teng bo‘lsa `All equal` chiqaring  
+
+📥 Input:
