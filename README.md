@@ -68,3 +68,9 @@ Funksiya yozing:
 eng katta va eng kichik elementni toping
 
 ularning ayirmasini chiqaring
+
+
+### Masala 6
+Matn berilgan.
+
+har bir so‘z necha marta takrorlanganini hisoblang
